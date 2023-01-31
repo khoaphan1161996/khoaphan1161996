@@ -7,3 +7,5 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/khoa-phan-7b811b224" target="blank"><img align="center" width src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaaaakhoa" height="30" width="40" /></a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khoaphan1161996&repo=TuHoc&theme=radical&show_icons=true)](https://github.com/khoaphan1161996/TuHoc)
