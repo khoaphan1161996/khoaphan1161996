@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoaphan1161996&hide=stars,commits,prs,issues,contribs)]
-
+[![Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoaphan1161996&hide=stars,commits,prs,issues,contribs)](https://github.com/khoaphan1161996/React-Infinite-Scrolling)
