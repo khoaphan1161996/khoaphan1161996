@@ -1,6 +1,7 @@
 <h3 > WELCOME TO MY PAGE 👋 👋 👋 </h3>
   
-<p> My name is Khoa Phan. I am a web developer, majoring in Front-end developer. I am interested in the following topics: JavaScript, Reactjs, Css. </p >
+<p> My name is Khoa Phan from <img src="https://cdn-icons-png.flaticon.com/512/323/323319.png" width="15"/> <b>Ho Chi Minh City, Viet Nam</b>. </p>
+  . I am a web developer, majoring in Front-end developer. I am interested in the following topics: JavaScript, Reactjs, Css. </p >
 
 <h3> 📫  How to reach me: </h3>
 
