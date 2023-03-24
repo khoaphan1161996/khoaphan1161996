@@ -22,4 +22,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khoaphan1161996&repo=jobster&theme=radical&show_icons=true)](https://github.com/khoaphan1161996/jobster)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoaphan1161996&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoaphan1161996&layout=compact&theme=vision-friendly-dark)](https://github.com/khoaphan1161996)
