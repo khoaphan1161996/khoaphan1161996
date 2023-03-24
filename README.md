@@ -20,4 +20,4 @@
 
 <hr>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khoaphan1161996&repo=jobster&theme=radical&show_icons=true)](https://github.com/khoaphan1161996/TuHoc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khoaphan1161996&repo=jobster&theme=radical&show_icons=true)](https://github.com/khoaphan1161996/jobster)
