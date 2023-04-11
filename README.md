@@ -17,6 +17,9 @@
   <br>
   <a href="https://www.linkedin.com/in/khoa-phan-7b811b224" target="blank"><img align="center" width src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaaaakhoa" height="30" width="40" /></a>
 </p>
+<div>
+    I'm best reached via <a href="mailto:khoa071996@gmail.com"/>email</a>. I'm always open to interesting conversations and collaboration.
+</div>
 
 <hr>
 
